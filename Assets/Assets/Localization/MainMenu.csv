@@ -1,0 +1,24 @@
+Key,English,Russian
+Menu.WorkoutCourse,"Course
+of exercises","Курс
+упражнений"
+Menu.Games,Games,Игры
+Menu.WorkoutCalendar,"Calendar
+of workouts","Календарь
+тренировок"
+Menu.Instruction,"Instruction","Инструкция"
+Menu.BuySmartplank,"Buy
+Smartplank","Купить
+Smartplank"
+Menu.Highscore,"Highscore","Достижения"
+MainMenu.Language,Language,Язык
+MainMenu.ChooseAWorkout,Choose a Workout,Выберите Тренировку
+MainMenu.Seconds,sec.,сек.
+MainMenu.30DayChallenge,30 Day Challenge,30 дневный челлендж
+MainMenu.GamesCount,Games:,Игр:
+MainMenu.Points,Points:,Очков:
+MainMenu.ResetChallenge,Reset Challenge,Сбросить
+MainMenu.StartWithExercisePosition,Start with exercise position,Приготовьтесь выполнять упражнение
+MainMenu.Pause,Pause,Пауза
+MainMenu.Stop,Stop,Стоп
+MainMenu.Introduction,Introduction,Вступление
